@@ -4,4 +4,4 @@
 
 读书笔记放在 [1fun.pw][1] 
 
-[1]:	1fun.pw
+[1]:	http://1fun.pw
