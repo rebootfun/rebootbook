@@ -1,4 +1,4 @@
-![](http://p4hi9syd4.bkt.clouddn.com/2018-03-08-avatar.jpg)
+![][image-1]
 ## 一、确定目标
 ### 1. 澄清期望
 #### 你希望自己成为什么样的人？
@@ -35,6 +35,7 @@
 - 以一百年的尺度，到我90岁时，我是没有能力驾驶的，哪怕是达到L4级别的自动驾驶，恐怕也没有能力独自乘坐。
 
 ### 4. 组织整理
+
 筛选出4个期望，用十二年的时间去实现:
 - 健身
 - 英语
@@ -59,6 +60,9 @@
 钱不能解决的，可以现在就立即开始。这才是最切实可行并能拉开差距的核心竞争力。
 
 ## Changelog
-- 180312 by 大雨 整合 GTD 理念 [五万英尺](http://gtd.bitcron.com/read/6-other/1-wu-mo-ying-chi)
+- 180312 by 大雨 整合 GTD 理念 [五万英尺][1]
 - 180306 by 大雨
 
+[1]:	http://p4hi9syd4.bkt.clouddn.com/2018-03-12-5wanyingchi.png
+
+[image-1]:	http://p4hi9syd4.bkt.clouddn.com/2018-03-08-avatar.jpg
