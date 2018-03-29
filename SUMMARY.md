@@ -1,6 +1,6 @@
 # 目录
 
-* [序言][1]
+* [序言][chapter00/preface.md]
 * [第一章][2]
    * [第一节][3]
 * [第二节][4]
@@ -9,7 +9,7 @@
    * [第一节][7]
    * [第二节][8]
 * [第三章 年目标制定][9]
-   * [第一节 18年目标][10]
+   * [第一节 18年目标][chapter03/note01.md]
    * [第二节][11]
 * [第四章][12]
    * [第一节][13]
@@ -35,7 +35,7 @@
 * [后记][33]
 
 
-[1]:	chapter00/preface.md
+[1]:
 [2]:	chapter01/README.md
 [3]:	chapter01/note0101.md
 [4]:	chapter01/note080121.md
@@ -44,7 +44,7 @@
 [7]:	chapter02/note01.md
 [8]:	chapter02/note02.md
 [9]:	chapter03/README.md
-[10]:	chapter03/note01.md
+[10]:
 [11]:	chapter03/note02.md
 [12]:	chapter04/README.md
 [13]:	chapter04/note01.md
