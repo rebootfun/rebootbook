@@ -1,6 +1,6 @@
 # 目录
 
-* [序言](chapter00/preface.md)
+* [为什么写博客](chapter00/preface.md)
 * [第一章 认知能力](chapter01/README.md)
    * [1.心智开启](chapter01/note01.md)
      * [1.1 理解力](chapter01/note01.md)
