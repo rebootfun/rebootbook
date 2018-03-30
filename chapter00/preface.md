@@ -21,3 +21,5 @@
 [为什么你要写博客？](https://zhuanlan.zhihu.com/p/19743861)
 
 [为什么要写Blog？](http://www.ruanyifeng.com/blog/2006/12/why_i_keep_blogging.html)
+
+%% 最重要的事只有一件，参考其他人文章，写博客还有很多好处，这里我练习一下Focus。

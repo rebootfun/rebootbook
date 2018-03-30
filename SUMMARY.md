@@ -29,7 +29,7 @@
 * [第九章 建设中](chapter09/README.md)
    * [1. SMART](chapter09/note01.md)
    * [2. 5W2H](chapter09/note02.md)
-* [备注](ps/note01s.md)
+* [Log](ps/note01s.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
