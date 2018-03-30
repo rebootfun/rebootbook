@@ -4,6 +4,6 @@
 
 ![](http://p4hi9syd4.bkt.clouddn.com/2018-03-30-180330zhishiquan.jpg)
 
-![](http://p4hi9syd4.bkt.clouddn.com/2018-03-30-005845.jpg)
+
 
 
