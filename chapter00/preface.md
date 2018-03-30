@@ -19,3 +19,5 @@
 [我为什么写博客](http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html)
 
 [为什么你要写博客？](https://zhuanlan.zhihu.com/p/19743861)
+
+[为什么要写Blog？](http://www.ruanyifeng.com/blog/2006/12/why_i_keep_blogging.html)
