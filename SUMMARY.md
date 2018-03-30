@@ -1,9 +1,9 @@
 # 目录
 
 * [为什么写博客](chapter00/preface.md)
-* [第一章 认知能力](chapter01/README.md)
-   * [1.心智开启](chapter01/note01.md)
-     * [1.1 理解力](chapter01/note01.md)
+* [一、认知能力](chapter01/README.md)
+   * [（一）心智开启](chapter01/note01.md)
+     * [1. 理解力](chapter01/note01.md)
    * [第二节](chapter01/note02.md)
 * [第二章](chapter02/README.md)
    * [第一节](chapter02/note01.md)
@@ -20,8 +20,8 @@
 * [第六章](chapter06/README.md)
    * [第一节](chapter06/note01.md)
    * [第二节](chapter06/note02.md)
-* [第七章](chapter07/README.md)
-   * [第一节](chapter07/note01.md)
+* [七、年计划](chapter07/README.md)
+   * [（一）确定年目标](chapter07/note01.md)
    * [第二节](chapter07/note02.md)
 * [第八章 模型库](chapter08/README.md)
    * [1. SMART](chapter08/note01.md)
