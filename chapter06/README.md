@@ -6,11 +6,12 @@
 
 按人均预期寿命75周岁，大约是900个月，按一个标准月30天计算，一生大约为27000天。
 
-下边2个小工具。一个是九宫格，一个是人生900月。
+下边2个小工具。一个是人生900月，一个是人生九宫格。
 
-![](http://p4hi9syd4.bkt.clouddn.com/2018-04-02-180402renshengjiugsongge.png)
+有没有感觉自己一生已经过去了很大一块，时间很紧迫……
 
 ![](http://p4hi9syd4.bkt.clouddn.com/2018-04-02-35rensheng900ge.JPG)
 
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-02-180402renshengjiugsongge.png)
 
 > 图片来源：经理人月刊106期
