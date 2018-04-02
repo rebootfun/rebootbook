@@ -19,7 +19,7 @@
 * [第五章](chapter05/README.md)
    * [第一节](chapter05/note01.md)
    * [第二节](chapter05/note02.md)
-* [第六章](chapter06/README.md)
+* [六、日计划](chapter06/README.md)
    * [第一节](chapter06/note01.md)
    * [第二节](chapter06/note02.md)
 * [七、年计划](chapter07/README.md)
