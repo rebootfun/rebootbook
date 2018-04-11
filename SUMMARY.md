@@ -5,7 +5,7 @@
    * [关于WO](chapter00/AboutMe.md)
 * [一、认知能力](chapter01/README.md)
    * [（一）心智开启](chapter01/note01.md)
-     * [1. 理解力](chapter01/note01.md)
+     * [NA1. 理解力](chapter01/note01.md)
      * [2. 认知升级](chapter01/note02.md)
    * [NA（二）乱入博客说明](chapter01/note02.md)
 * [NA二、读书笔记](chapter02/README.md)
