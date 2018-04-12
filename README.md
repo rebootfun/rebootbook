@@ -31,6 +31,18 @@
 - 《思考的力量》
 - 《如何阅读一本书》
 
+参考链接：
+
+[目录页「博客」说明](https://www.zybuluo.com/jianshu/note/863330)
+
+[ BetterExplained 为什么你应该（从现在开始就）写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
+
+[我为什么写博客](http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html)
+
+[为什么你要写博客？](https://zhuanlan.zhihu.com/p/19743861)
+
+[为什么要写Blog？](http://www.ruanyifeng.com/blog/2006/12/why_i_keep_blogging.html)
+
 
 
 
