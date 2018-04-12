@@ -12,9 +12,6 @@
 
 ![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024948.jpg)
 
-![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024951.jpg)
-![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024954.jpg)
-
 ### **认知的四个阶段**
 
 1. 不知不觉
@@ -26,4 +23,7 @@
 
 参考四象限工具，可以把自己的认知划分为四个区域：
 *自己知道的，自己不知道的，别人知道的，别人不知道的。*
+
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024951.jpg)
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024954.jpg)
 
