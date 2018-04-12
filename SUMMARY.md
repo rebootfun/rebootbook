@@ -4,8 +4,6 @@
    * [NA写博客的其他好处](chapter00/README.md)
    * [关于WO](chapter00/AboutMe.md)
 * [一、认知能力](chapter01/README.md)
-<<<<<<< HEAD
-   * （一）心智开启
      * [1. 我知道自己不知道](chapter01/note01.md)
      * [2. 觉醒](chapter01/note02.md)
      * [3. 认知升级](chapter01/note03.md)
@@ -15,7 +13,6 @@
 * [二、读书笔记](chapter02/README.md)
    * [《心流》](chapter02/note01.md)
    * [《深度工作》](chapter02/note02.md)
-=======
    * [（一）心智开启](chapter01/note01.md)
      * [NA1. 理解力](chapter01/note01.md)
      * [2. 认知升级](chapter01/note02.md)
@@ -23,7 +20,6 @@
 * [NA二、读书笔记](chapter02/README.md)
    * [NA《心流》](chapter02/note01.md)
    * [NA《深度工作》](chapter02/note02.md)
->>>>>>> origin/master
 * [三、时间管理](chapter03/README.md)
    * [（一）精力管理](chapter03/note01.md)
    * [NA第二节](chapter03/note02.md)
