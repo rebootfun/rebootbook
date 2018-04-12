@@ -24,6 +24,7 @@
 > 引自:把时间当做朋友-李笑来
 
 ![](http://tomens.github.io/pictures/004.png）
+
 ![](http://tomens.github.io/pictures/006.png）
 
 
