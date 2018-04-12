@@ -23,8 +23,8 @@
 
 > 引自:把时间当做朋友-李笑来
 
-![](https://tomens.github.io/pictures/004.png）
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024501.jpg)
 
-![](https://tomens.github.io/pictures/006.png）
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024527.jpg)
 
 
