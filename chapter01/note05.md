@@ -8,6 +8,13 @@
 
 > 人类能将自己的思考作为思考对象，这个能力被称作“元认知能力”。
 
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024943.jpg)
+
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024948.jpg)
+
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024951.jpg)
+![](http://p4hi9syd4.bkt.clouddn.com/2018-04-12-024954.jpg)
+
 ### **认知的四个阶段**
 
 1. 不知不觉
